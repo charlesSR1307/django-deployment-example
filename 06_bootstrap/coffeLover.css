@@ -1,0 +1,7 @@
+.navbar .navbar-nav > li > a#signin:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: #e8e6e7;
+}
+
+#signin{
+    color: #aaaaaa;
+}

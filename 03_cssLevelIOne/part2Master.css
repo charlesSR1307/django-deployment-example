@@ -1,0 +1,21 @@
+/* Comment */
+body{
+    background: url(https://images8.alphacoders.com/114/thumb-1920-1143262.jpg);
+    background-repeat: repeat;
+}
+
+div{
+    background-color: blue;
+    border-color: orange;
+    border-width: 4px;
+    border-style: double;
+}
+
+p{
+    color: yellow;
+}
+
+span{
+    background: red;
+    color: black;
+}
